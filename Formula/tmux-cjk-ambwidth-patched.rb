@@ -1,4 +1,4 @@
-class TmuxCJKAmbwidthPatched < Formula
+class TmuxCjkAmbwidthPatched < Formula
   desc "Terminal multiplexer with CJK Ambwidth Patched"
   homepage "https://tmux.github.io/"
 
